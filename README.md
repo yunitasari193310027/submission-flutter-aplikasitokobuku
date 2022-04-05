@@ -1,5 +1,4 @@
-# haii
-
+# Ini adalah project aplikasi saya yaitu aplikasi toko buku untuk submission dicoding menggunakan flutter 
 A new Flutter project.
 
 ## Getting Started
